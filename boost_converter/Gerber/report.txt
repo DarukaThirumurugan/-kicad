@@ -1,0 +1,22 @@
+Plotted to 'C:\Users\theer\Desktop\kicad\boost_converter\boost_converter-F_Cu.gbr'.
+Plotted to 'C:\Users\theer\Desktop\kicad\boost_converter\boost_converter-B_Cu.gbr'.
+Plotted to 'C:\Users\theer\Desktop\kicad\boost_converter\boost_converter-F_Paste.gbr'.
+Plotted to 'C:\Users\theer\Desktop\kicad\boost_converter\boost_converter-B_Paste.gbr'.
+Plotted to 'C:\Users\theer\Desktop\kicad\boost_converter\boost_converter-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\theer\Desktop\kicad\boost_converter\boost_converter-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\theer\Desktop\kicad\boost_converter\boost_converter-F_Mask.gbr'.
+Plotted to 'C:\Users\theer\Desktop\kicad\boost_converter\boost_converter-B_Mask.gbr'.
+Plotted to 'C:\Users\theer\Desktop\kicad\boost_converter\boost_converter-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\theer\Desktop\kicad\boost_converter\boost_converter-job.gbrjob'.
+Plotted to 'C:\Users\theer\Desktop\kicad\boost_converter\boost_converter-F_Cu.gbr'.
+Plotted to 'C:\Users\theer\Desktop\kicad\boost_converter\boost_converter-B_Cu.gbr'.
+Plotted to 'C:\Users\theer\Desktop\kicad\boost_converter\boost_converter-F_Paste.gbr'.
+Plotted to 'C:\Users\theer\Desktop\kicad\boost_converter\boost_converter-B_Paste.gbr'.
+Plotted to 'C:\Users\theer\Desktop\kicad\boost_converter\boost_converter-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\theer\Desktop\kicad\boost_converter\boost_converter-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\theer\Desktop\kicad\boost_converter\boost_converter-F_Mask.gbr'.
+Plotted to 'C:\Users\theer\Desktop\kicad\boost_converter\boost_converter-B_Mask.gbr'.
+Plotted to 'C:\Users\theer\Desktop\kicad\boost_converter\boost_converter-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\theer\Desktop\kicad\boost_converter\boost_converter-job.gbrjob'.
+Info: Done.
+Info: Done.
